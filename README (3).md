@@ -95,10 +95,10 @@ Each flower is described by four features:
 ## Contact
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-- **Name**: Musabbir Km
-- **Email**: musabbirmushu@gmail.com  
-- **GitHub**: [musabbirkm](https://github.com/musabbirkm)  
-- **LinkedIn**: [MusabbirKm](https://linkedin.com/in/MusabbirKm)
+- **Name**: Fathimath sahla p
+- **Email**: fathimathsahla570@gmail.com 
+- **GitHub**: github.com/fathimasahla570 
+- **LinkedIn**:linkedin.com/in/fathimath-sahla-p-8a073532aenver 
 
 
 
